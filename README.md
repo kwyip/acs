@@ -1,4 +1,4 @@
-<center> Classical_analog_simulation </center>
+<font size="115"><center> Classical_analog_simulation </center></font>
 Implementation of classical analog simulation
 
 
