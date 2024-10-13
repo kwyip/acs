@@ -1,8 +1,8 @@
-<font size="115"><center> Classical_analog_simulation </center></font>
-Implementation of classical analog simulation
+# Classical_analog_simulation
+## Implementation of classical analog simulation
 
 
-Symmetric bases set (N)(N+1)/2
+## Symmetric bases set (N)(N+1)/2
 
 
-# Estimation of ground state
+## Estimation of ground state
