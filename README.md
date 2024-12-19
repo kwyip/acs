@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=kwyip/classical_analog_simulation&file=README.md)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=kwyip/analog_classical_simulation&file=README.md)
 
 # Analog Classical Simulation
 ## Implementation of classical analog simulation
