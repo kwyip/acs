@@ -1,6 +1,19 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=kwyip/analog_classical_simulation&file=README.md)
 
 # Analog Classical Simulation
+This repository contains the following functions:
+1.
+2.
+3. 
+
+**Analog Classical Simulation**
+---
+This repository contains the following functions:
+1.
+2.
+3. 
+
+
 ## Implementation of classical analog simulation
 ## Symmetric bases set (N)(N+1)/2
 ## Estimation of ground state
